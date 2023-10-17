@@ -1,0 +1,15 @@
+Description:
+
+This To-Do List App is a web-based task management tool created with HTML, CSS, and JavaScript. It empowers you to efficiently organize your tasks, mark them as completed or incomplete, and remove them when you're done. Additionally, the app leverages Local Storage, ensuring your to-do list persists even if you close and reopen your browser.
+
+Key Features:
+
+Add Tasks: Easily add new tasks to your to-do list by typing them into the input box and clicking the "Add" button.
+Mark as Completed or Incomplete: A simple click on the task name allows you to mark it as either completed or incomplete, helping you track your progress.
+Delete Tasks: Each task includes a close icon for quick and convenient removal from your to-do list.
+Local Storage Integration: Your task list is stored in your web browser's Local Storage, ensuring that your to-do list remains accessible even after closing and reopening your browser.
+Getting Started:
+
+Clone this repository to your local machine.
+Open the index.html file in your web browser to start using the To-Do List App.
+Feel free to explore the code and adapt it to your specific needs. This project is an excellent opportunity to improve your web development skills and build a practical, versatile to-do list app.
